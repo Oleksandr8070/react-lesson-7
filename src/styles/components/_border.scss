@@ -1,0 +1,23 @@
+.borderRadius {
+    border-radius: 8px;
+}
+
+.borderGreen {
+    border: 3px solid $color-green;
+}
+
+.borderRed {
+    border-color:  $color-red;
+}
+
+.borderBlue {
+    border-color: $color-blue;
+}
+
+.borderBlack {
+    border-color: $color-text;
+}
+.activeBorder {
+    border-bottom: 5px solid $color-bg;
+}
+
