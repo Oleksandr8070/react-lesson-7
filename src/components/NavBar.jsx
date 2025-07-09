@@ -1,6 +1,5 @@
 import { NavLink } from 'react-router'
 import frontRoutes from '../routes/frontRoutes'
-
 function Navbar() {
     return (
         <nav className='displayFlex'>
