@@ -12,10 +12,10 @@ export default {
     },
     navigate: {
     products: {
-    list: '/products',
-    add: '/products/new',
-    getDetailLink: (id) => `/products/${id}`,
-    getEditLink: (id) => `/products/${id}/edit`,
+        list: '/products',
+        add: '/products/new',
+        getDetailLink: (id) => `/products/${id}`,
+        getEditLink: (id) => `/products/${id}/edit`,
 },
 },
 }
